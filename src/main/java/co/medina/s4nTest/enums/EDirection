@@ -1,4 +1,4 @@
-public enum Direction {
+enum EDirection {
     North,
     South, 
     East,

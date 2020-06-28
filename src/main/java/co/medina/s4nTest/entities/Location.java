@@ -3,7 +3,7 @@ package co.medina.s4nTest.entities;
 public class Location {
     private int xPosition = 0;
     private int yPosition = 0;
-    private String direction = "";
+    private String direction = "North";
 
     public Location() {
     }
