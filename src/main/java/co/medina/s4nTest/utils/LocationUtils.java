@@ -9,6 +9,13 @@ public class LocationUtils {
     }
 
     public Location moveFoward (){
+        switch (checkDirection()) {
+            case 'A':
+                break;
+            case 'I':
+                break;
+            default:
+        }
         return new Location();
     }
 
